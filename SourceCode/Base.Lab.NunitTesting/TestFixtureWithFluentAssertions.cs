@@ -18,7 +18,7 @@ namespace Base.Lab.NUnitTesting
         {
             try
             {
-                classToTest = new ClassOne(null);
+                classToTest = new ClassOne(null); 
                 Assert.Fail();
             }
             catch (NotObjectPassedException)

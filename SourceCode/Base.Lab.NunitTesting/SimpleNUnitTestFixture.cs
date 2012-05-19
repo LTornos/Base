@@ -14,7 +14,7 @@ namespace Base.Lab.NUnitTesting
         public void IfIDontPassAnObjectToTheConstructorItFails()
         {
             Action act = () => new ClassOne(null);
-            act.ShouldThrow<NotObjectPassedException>();
+            act.ShouldThrow<NotObjectPassedException>(); 
         }
         [Test]
         public void IfIDontPassAnObjectToMethodOneItFails()
