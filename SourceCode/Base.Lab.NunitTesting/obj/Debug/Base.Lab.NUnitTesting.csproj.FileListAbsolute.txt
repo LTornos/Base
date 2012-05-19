@@ -1,0 +1,7 @@
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\obj\Debug\ResolveAssemblyReference.cache
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.pdb
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\FluentAssertions.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\nunit.framework.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\obj\Debug\Base.Lab.NUnitTesting.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\obj\Debug\Base.Lab.NUnitTesting.pdb

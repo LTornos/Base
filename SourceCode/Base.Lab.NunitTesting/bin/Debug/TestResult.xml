@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-05-19" time="18:25:08">
+  <environment nunit-version="2.6.0.12051" clr-version="4.0.30319.269" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug" machine-name="LAU-PC" user="Lau" user-domain="Lau-PC" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll" executed="True" result="Success" success="True" time="7.793" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Base" executed="True" result="Success" success="True" time="7.778" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Lab" executed="True" result="Success" success="True" time="7.768" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="NUnitTesting" executed="True" result="Success" success="True" time="7.763" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="SimpleNUnitTestFixture" executed="True" result="Success" success="True" time="0.800" asserts="0">
+                    <results>
+                      <test-case name="Base.Lab.NUnitTesting.SimpleNUnitTestFixture.IfIDontPassAnObjectToMethodOneItFails" executed="True" result="Success" success="True" time="0.471" asserts="1" />
+                      <test-case name="Base.Lab.NUnitTesting.SimpleNUnitTestFixture.IfIDontPassAnObjectToTheConstructorItFails" executed="True" result="Success" success="True" time="0.268" asserts="1" />
+                      <test-case name="Base.Lab.NUnitTesting.SimpleNUnitTestFixture.MethodOneDoesSomethingAndReturnsOtherThing" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                      <test-case name="Base.Lab.NUnitTesting.SimpleNUnitTestFixture.MethodOneDoesSomeThingAndReturnsSomething" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite type="TestFixture" name="TestFixtureWithFluentAssertions" executed="True" result="Success" success="True" time="6.954" asserts="0">
+                    <results>
+                      <test-case name="Base.Lab.NUnitTesting.TestFixtureWithFluentAssertions.IfIDontPassAnObjectToMethodOneItFails" executed="True" result="Success" success="True" time="4.706" asserts="0" />
+                      <test-case name="Base.Lab.NUnitTesting.TestFixtureWithFluentAssertions.IfIDontPassAnObjectToTheConstructorItFails" executed="True" result="Success" success="True" time="2.110" asserts="0" />
+                      <test-case name="Base.Lab.NUnitTesting.TestFixtureWithFluentAssertions.MethodOneDoesSomethingAndReturnsOtherThing" executed="True" result="Success" success="True" time="0.004" asserts="0" />
+                      <test-case name="Base.Lab.NUnitTesting.TestFixtureWithFluentAssertions.MethodOneDoesSomeThingAndReturnsSomething" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

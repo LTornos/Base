@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll</TopNode>
+  <SelectedNode>[0-1010]C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Lab.NUnitTesting\bin\Debug\Base.Lab.NUnitTesting.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]Base" Expanded="true" />
+    <Node UniqueName="[0-1012]Base.Lab" Expanded="true" />
+    <Node UniqueName="[0-1013]Base.Lab.NUnitTesting" Expanded="true" />
+    <Node UniqueName="[0-1005]Base.Lab.NUnitTesting.SimpleNUnitTestFixture" Expanded="true" />
+    <Node UniqueName="[0-1000]Base.Lab.NUnitTesting.TestFixtureWithFluentAssertions" Expanded="true" />
+  </Nodes>
+</VisualState>
