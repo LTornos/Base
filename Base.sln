@@ -1,8 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base.Lab.NUnitTesting", "SourceCode\Base.Lab.NUnitTesting\Base.Lab.NUnitTesting.csproj", "{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{35A80078-F929-40A7-88FF-21E16A6DB792}"
+	ProjectSection(SolutionItems) = preProject
+		Lib\FluentAssertions.dll = Lib\FluentAssertions.dll
+		Lib\nunit.framework.dll = Lib\nunit.framework.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Lab", "00.Lab", "{A622B9DE-81ED-46A1-ACFB-04765EC9FBC3}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D77FC79-1E2A-4FCF-BAA3-09A50125C40E} = {A622B9DE-81ED-46A1-ACFB-04765EC9FBC3}
 	EndGlobalSection
 EndGlobal
