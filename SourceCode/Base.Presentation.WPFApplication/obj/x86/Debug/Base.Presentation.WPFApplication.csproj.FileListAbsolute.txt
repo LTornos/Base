@@ -1,0 +1,13 @@
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\bin\Debug\Base.Presentation.WPFApplication.exe
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\bin\Debug\Base.Presentation.WPFApplication.pdb
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\MainWindow.baml
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\MainWindow.g.cs
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\App.g.cs
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\Base.Presentation.WPFApplication_MarkupCompile.cache
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\Base.Presentation.WPFApplication.g.resources
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\Base.Presentation.WPFApplication.Properties.Resources.resources
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\Base.Presentation.WPFApplication.exe
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.WPFApplication\obj\x86\Debug\Base.Presentation.WPFApplication.pdb

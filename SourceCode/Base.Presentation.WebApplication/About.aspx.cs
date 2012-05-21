@@ -7,6 +7,10 @@ using System.Web.UI.WebControls;
 
 namespace Base.Presentation.WebApplication
 {
+    /// <summary>
+    /// 
+    /// 
+    /// </summary>
     public partial class About : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)

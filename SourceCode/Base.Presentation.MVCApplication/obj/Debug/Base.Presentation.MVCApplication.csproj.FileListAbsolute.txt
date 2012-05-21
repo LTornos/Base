@@ -1,0 +1,7 @@
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\bin\Base.Presentation.MVCApplication.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\bin\Base.Presentation.MVCApplication.pdb
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\bin\EntityFramework.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\bin\EntityFramework.xml
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\obj\Debug\Base.Presentation.MVCApplication.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.Presentation.MVCApplication\obj\Debug\Base.Presentation.MVCApplication.pdb

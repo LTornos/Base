@@ -1,0 +1,5 @@
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.DistributedServices.Implementation\bin\Debug\Base.DistributedServices.Implementation.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.DistributedServices.Implementation\bin\Debug\Base.DistributedServices.Implementation.pdb
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.DistributedServices.Implementation\obj\Debug\ResolveAssemblyReference.cache
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.DistributedServices.Implementation\obj\Debug\Base.DistributedServices.Implementation.dll
+C:\DATOS\Proyectos\4.0\Base\SourceCode\Base.DistributedServices.Implementation\obj\Debug\Base.DistributedServices.Implementation.pdb
